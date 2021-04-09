@@ -1,0 +1,35 @@
+C:\Users\facif\source\repos\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\bin\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.exe
+C:\Users\facif\source\repos\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\bin\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.deps.json
+C:\Users\facif\source\repos\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\bin\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.runtimeconfig.json
+C:\Users\facif\source\repos\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\bin\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.runtimeconfig.dev.json
+C:\Users\facif\source\repos\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\bin\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.dll
+C:\Users\facif\source\repos\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\bin\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.pdb
+C:\Users\facif\source\repos\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\obj\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.csprojAssemblyReference.cache
+C:\Users\facif\source\repos\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\obj\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.AssemblyInfoInputs.cache
+C:\Users\facif\source\repos\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\obj\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.AssemblyInfo.cs
+C:\Users\facif\source\repos\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\obj\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.dll
+C:\Users\facif\source\repos\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\obj\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.pdb
+D:\3) Trimestre #2\Lenguaje de Programacion .NET\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\bin\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.exe
+D:\3) Trimestre #2\Lenguaje de Programacion .NET\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\bin\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.deps.json
+D:\3) Trimestre #2\Lenguaje de Programacion .NET\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\bin\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.runtimeconfig.json
+D:\3) Trimestre #2\Lenguaje de Programacion .NET\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\bin\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.runtimeconfig.dev.json
+D:\3) Trimestre #2\Lenguaje de Programacion .NET\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\bin\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.dll
+D:\3) Trimestre #2\Lenguaje de Programacion .NET\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\bin\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.pdb
+D:\3) Trimestre #2\Lenguaje de Programacion .NET\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\obj\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.csprojAssemblyReference.cache
+D:\3) Trimestre #2\Lenguaje de Programacion .NET\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\obj\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.AssemblyInfoInputs.cache
+D:\3) Trimestre #2\Lenguaje de Programacion .NET\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\obj\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.AssemblyInfo.cs
+D:\3) Trimestre #2\Lenguaje de Programacion .NET\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\obj\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.dll
+D:\3) Trimestre #2\Lenguaje de Programacion .NET\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\obj\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.pdb
+E:\3) Trimestre #2\Lenguaje de Programacion .NET\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\bin\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.exe
+E:\3) Trimestre #2\Lenguaje de Programacion .NET\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\bin\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.deps.json
+E:\3) Trimestre #2\Lenguaje de Programacion .NET\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\bin\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.runtimeconfig.json
+E:\3) Trimestre #2\Lenguaje de Programacion .NET\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\bin\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.runtimeconfig.dev.json
+E:\3) Trimestre #2\Lenguaje de Programacion .NET\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\bin\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.dll
+E:\3) Trimestre #2\Lenguaje de Programacion .NET\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\bin\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.pdb
+E:\3) Trimestre #2\Lenguaje de Programacion .NET\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\obj\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.csprojAssemblyReference.cache
+E:\3) Trimestre #2\Lenguaje de Programacion .NET\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\obj\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.AssemblyInfoInputs.cache
+E:\3) Trimestre #2\Lenguaje de Programacion .NET\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\obj\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.AssemblyInfo.cs
+E:\3) Trimestre #2\Lenguaje de Programacion .NET\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\obj\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.csproj.CoreCompileInputs.cache
+E:\3) Trimestre #2\Lenguaje de Programacion .NET\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\obj\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.dll
+E:\3) Trimestre #2\Lenguaje de Programacion .NET\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\obj\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.pdb
+E:\3) Trimestre #2\Lenguaje de Programacion .NET\Programacion_Lenguaje1-.NET\Programacion_Lenguaje1-.NET\obj\Debug\netcoreapp3.1\Programacion_Lenguaje1-.NET.genruntimeconfig.cache
